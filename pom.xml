@@ -25,7 +25,7 @@
         <!-- for java 8 we need to use 2.x version		-->
         <git-code-format-maven-plugin.version>2.7</git-code-format-maven-plugin.version>
         <snakeyaml.version>2.0</snakeyaml.version>
-        <kafka-clients.version>3.4.0</kafka-clients.version>
+        <kafka-clients.version>3.6.1</kafka-clients.version>
         <thymeleaf.version>3.1.2.RELEASE</thymeleaf.version>
 		<java.version>17</java.version>
 		<disruptor.version>3.4.4</disruptor.version>
