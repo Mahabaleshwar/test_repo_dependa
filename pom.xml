@@ -18,7 +18,7 @@
     <properties>
         <java.version>17</java.version>
         <disruptor.version>3.4.4</disruptor.version>
-        <logstash-logback-encoder.version>7.3</logstash-logback-encoder.version>
+        <logstash-logback-encoder.version>7.4</logstash-logback-encoder.version>
         <aws-sdk.version>2.17.214</aws-sdk.version>
         <openPojo.version>0.9.1</openPojo.version>
         <jacoco-maven-plugin.version>0.8.8</jacoco-maven-plugin.version>
