@@ -36,7 +36,7 @@
 		<jacoco-maven-plugin.version>0.8.8</jacoco-maven-plugin.version>
 		<resilience4j.version>1.7.1</resilience4j.version>
 		<openPojo.version>0.9.1</openPojo.version>
-		<json-smart.version>2.4.11</json-smart.version>
+		<json-smart.version>2.5.0</json-smart.version>
 		<nexus-staging-maven-plugin.version>1.6.8</nexus-staging-maven-plugin.version>
 		<snakeyaml.version>2.0</snakeyaml.version>
 		<htmlcompressor-maven-plugin.version>1.7.3</htmlcompressor-maven-plugin.version>
