@@ -32,7 +32,7 @@
 		<logstash-logback-encoder.version>7.2</logstash-logback-encoder.version>
 		<aws-sdk.version>2.21.12</aws-sdk.version>
 		<commons-collections4.version>4.4</commons-collections4.version>
-		<json-path.version>2.8.0</json-path.version>
+		<json-path.version>2.9.0</json-path.version>
 		<jacoco-maven-plugin.version>0.8.8</jacoco-maven-plugin.version>
 		<resilience4j.version>1.7.1</resilience4j.version>
 		<openPojo.version>0.9.1</openPojo.version>
