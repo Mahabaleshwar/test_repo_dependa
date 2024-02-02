@@ -19,7 +19,7 @@
         <java.version>17</java.version>
         <disruptor.version>3.4.4</disruptor.version>
         <logstash-logback-encoder.version>7.3</logstash-logback-encoder.version>
-        <aws-sdk.version>2.17.214</aws-sdk.version>
+        <aws-sdk.version>2.23.16</aws-sdk.version>
         <openPojo.version>0.9.1</openPojo.version>
         <jacoco-maven-plugin.version>0.8.8</jacoco-maven-plugin.version>
         <!-- for java 8 we need to use 2.x version		-->
